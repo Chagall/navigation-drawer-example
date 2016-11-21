@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_f4a33567d4c77804cd4bc80c6e007fb64c81cd39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_4d5a9359de6250ea3851dde6bc75da5b45794835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b3f033744d8fe8d7fdbf779e0301fd0178ebdbef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_6defbbc735b8bdc71b9d061fdcd3cbef2d17954f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f5408616fe7786d854cf86aa43c47aed7228506d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_9d61db2fbc21d081b95ee3f3b93d202587d197a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e2a75d1118b70c4747600adbd3f116bae8e59c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_e46044c59d4bf2474e34cde24c3c7795dc81b865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_9d913d8e5802c47322426230e47ccbb43db67ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_6070f01b322bd931b8957db4741192ff58fd35d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_4b96f597f64ef6cadf57e28eff44af1c61dfc688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_7e49ddf3c6dd4da6e85f61f000acfddb2df69a75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_26dfff37eda5d146a55e5aec6f12083147b82ba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f367dbfd40ef32efe6ef923caeedd86b3b1088e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cfb224a0c573003b9027642837788a7f53e8eb0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_9b9ff8331f9324ee3e385256e7ef9d2dfb592329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/fabiopereira/Desktop/NavigationDrawerExample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3bab62c69d8f0dbc5c1f0f1aa2b08963b05d0d92.jar" />
+    </item>
+
+</items>

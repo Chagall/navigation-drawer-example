@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <View
+        android:id="@+id/nav_drawer_item_selection"
+        android:layout_width="4.5dp"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent"
+        android:visibility="visible"/>
+
+    <ImageView
+        android:id="@+id/nav_drawer_item_image"
+        android:src="@android:drawable/ic_menu_camera"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_margin="8dp" />
+
+    <TextView
+        android:id="@+id/nav_drawer_item_text"
+        android:text="Perfil"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"/>
+
+</LinearLayout>
